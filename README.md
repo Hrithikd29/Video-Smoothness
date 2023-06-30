@@ -12,7 +12,7 @@ through hours of videos
 
 ### Solution:
 
-WeDio can give you accurate timestamps of 5 major kinds of disruptions in your video :<br>
+We can give you accurate timestamps of 5 major kinds of disruptions in your video :<br>
 1. Lagging<br>
 ● Calclulating the current fps, for every 3s<br>
 ● Making list of change of fps with
